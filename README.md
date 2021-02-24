@@ -20,6 +20,7 @@ O Sistema possui uma tela de login onde o usuário deve ser cadastrado para cons
 
 # Tecnologias utilizadas
 - Java
+- Apache NetBeans IDE 12.2
 ## Implantação em produção
 - Banco de dados: Postgresql
 
