@@ -1,6 +1,3 @@
-# Projeto-Agenda-Clinica
-## Projeto de agenda clinica com login e controle de acesso, cadastro de usuários, consultas e relatório
-
 # Big Game Survey 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
