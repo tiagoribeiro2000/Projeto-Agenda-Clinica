@@ -1,5 +1,5 @@
-# Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+# TGR Doctor
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/tiagoribeiro2000/Projeto-Agenda-Clinica/blob/main/LICENSE) 
 
 # Sobre o projeto
 
