@@ -15,16 +15,12 @@ O Sistema possui uma tela de login onde o usuário deve ser cadastrado para cons
 ## Tela Login
 ![Tela Login](https://github.com/tiagoribeiro2000/Projeto-Agenda-Clinica/blob/main/ImagensDoProjeto/telaLogin.png) 
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+## Tela Principal
+![Tela Principal](https://github.com/tiagoribeiro2000/Projeto-Agenda-Clinica/blob/main/ImagensDoProjeto/TelaPrincipal.png)
 
 # Tecnologias utilizadas
 - Java
+- Apache NetBeans IDE 12.2
 ## Implantação em produção
 - Banco de dados: Postgresql
 
