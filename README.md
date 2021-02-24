@@ -11,7 +11,7 @@ O Sistema possui uma tela de login onde o usuário deve ser cadastrado para cons
 *Cadastrar endereços, modificar e excluir .
 
 ## Layout do projeto
-![Mobile 1](https://github.com/tiagoribeiro2000/Projeto-Agenda-Clinica/blob/main/ImagensDoProjeto/telaLogin.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](https://github.com/tiagoribeiro2000/Projeto-Agenda-Clinica/blob/main/ImagensDoProjeto/telaLogin.png) 
 
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
