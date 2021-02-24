@@ -18,6 +18,9 @@ O Sistema possui uma tela de login onde o usuário deve ser cadastrado para cons
 ## Tela Principal
 ![Tela Principal](https://github.com/tiagoribeiro2000/Projeto-Agenda-Clinica/blob/main/ImagensDoProjeto/TelaPrincipal.png)
 
+## Tela Usuários
+![Tela Usuários](https://github.com/tiagoribeiro2000/Projeto-Agenda-Clinica/blob/main/ImagensDoProjeto/TelaCadastroUsuarios.png)
+
 # Tecnologias utilizadas
 - Java
 - Apache NetBeans IDE 12.2
