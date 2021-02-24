@@ -18,11 +18,6 @@ O Sistema possui uma tela de login onde o usuário deve ser cadastrado para cons
 ## Tela Principal
 ![Tela Principal](https://github.com/tiagoribeiro2000/Projeto-Agenda-Clinica/blob/main/ImagensDoProjeto/TelaPrincipal.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
 # Tecnologias utilizadas
 - Java
 ## Implantação em produção
