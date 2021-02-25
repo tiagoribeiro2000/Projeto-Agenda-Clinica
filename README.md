@@ -25,6 +25,7 @@ O Sistema possui uma tela de login onde o usuário deve ser cadastrado para cons
 ![Tela Médicos](https://github.com/tiagoribeiro2000/Projeto-Agenda-Clinica/blob/main/ImagensDoProjeto/TelaMedicos.png)
 
 # Tecnologias utilizadas
+- Sistema Operacional Windows 10
 - Java
 - Apache NetBeans IDE 12.2
 ## Implantação em produção
